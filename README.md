@@ -4,4 +4,4 @@
 
 - O objetivo do programa é minimizar a distância máxima percorrida pelos habitantes de uma cidade para chegar ao hospital. Para isso, ele considera um grafo onde os pesos representam a distância entre dois nós e determina a localização que minimiza a distância máxima para qualquer outro nó do grafo. A distância máxima de um vértice v em um grafo G é denominada de excentricidade, definida como:
 
-- exc(v) = max{dist(v, x) | x ∈ V(G)}.
+      exc(v) = max{dist(v, x) | x ∈ V(G)}.
